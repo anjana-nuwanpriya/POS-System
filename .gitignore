@@ -1,0 +1,47 @@
+# ===============================
+# Visual Studio
+# ===============================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# ===============================
+# Build output
+# ===============================
+bin/
+obj/
+
+# ===============================
+# .NET
+# ===============================
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# OS generated
+# ===============================
+Thumbs.db
+.DS_Store
+
+# ===============================
+# Database / Local config
+# ===============================
+*.mdf
+*.ldf
+app.config.local
+appsettings.Development.json
+
+# ===============================
+# Rider / VS Code
+# ===============================
+.idea/
+.vscode/
